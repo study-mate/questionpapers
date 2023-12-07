@@ -1,33 +1,32 @@
-[
-{
-	
-	"Year":"Year: 2019-AW(Summer)",
-	"Credits":"Credits: SGBAU",
-	"Link":"https://www.sgbaukrc.ac.in/question-papers/2019-Papers/Summer/BLib/Advanced-Computer-Application-In-LIS.pdf"
-},
-{
-	
-	"Year":"Year: 2018-AU(Summer)",
-	"Credits":"Credits: SGBAU",
-	"Link":"https://www.sgbaukrc.ac.in/question-papers/2018-papers/summer/BLib/Advanced-Computer-Applications-In-LIS.pdf"
-},
-{
-	
-	"Year":"Year: 2018-AU(Summer)",
-	"Credits":"Credits: SGBAU",
-	"Link":"https://www.sgbaukrc.ac.in/question-papers/2018-papers/summer/BLib/Sem-II/Sem-II-Advance-Computer-Application-In-LIC.pdf",
-},
+[{
 
-{
-	
-	"Year":"Year: 2018-AV(Winter)",
-	"Credits":"Credits: SGBAU",
-	"Link":"https://www.sgbaukrc.ac.in/question-papers/2018-papers/winter/BLib/sem-II/Sem-II-Advance-Computer-Application-In-LIC.pdf"
-},
+		"Year": "Year: 2019-AW(Summer)",
+		"Credits": "Credits: SGBAU",
+		"Link": "https://www.sgbaukrc.ac.in/question-papers/2019-Papers/Summer/BLib/Advanced-Computer-Application-In-LIS.pdf"
+	},
+	{
 
-{
-	"Year":"Year: 2016-AQ(Summer)",
-	"Credits":"Credits: SGBAU",
-	"Link":"https://www.sgbaukrc.ac.in/question-papers/2016-papers/Summer/BLib/Advanced-Computer-Application-In-LIS.pdf"
-}
+		"Year": "Year: 2018-AU(Summer)",
+		"Credits": "Credits: SGBAU",
+		"Link": "https://www.sgbaukrc.ac.in/question-papers/2018-papers/summer/BLib/Advanced-Computer-Applications-In-LIS.pdf"
+	},
+	{
+
+		"Year": "Year: 2018-AU(Summer)",
+		"Credits": "Credits: SGBAU",
+		"Link": "https://www.sgbaukrc.ac.in/question-papers/2018-papers/summer/BLib/Sem-II/Sem-II-Advance-Computer-Application-In-LIC.pdf"
+	},
+
+	{
+
+		"Year": "Year: 2018-AV(Winter)",
+		"Credits": "Credits: SGBAU",
+		"Link": "https://www.sgbaukrc.ac.in/question-papers/2018-papers/winter/BLib/sem-II/Sem-II-Advance-Computer-Application-In-LIC.pdf"
+	},
+
+	{
+		"Year": "Year: 2016-AQ(Summer)",
+		"Credits": "Credits: SGBAU",
+		"Link": "https://www.sgbaukrc.ac.in/question-papers/2016-papers/Summer/BLib/Advanced-Computer-Application-In-LIS.pdf"
+	}
 ]
