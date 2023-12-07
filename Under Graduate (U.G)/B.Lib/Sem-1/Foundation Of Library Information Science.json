@@ -1,37 +1,36 @@
-[
-{
-	
-	"Year":"Year: 2019-AW(Summer)",
-	"Credits":"Credits: SGBAU",
-	"Link":"https://www.sgbaukrc.ac.in/question-papers/2019-Papers/Summer/BLib/Foundation-Of-Library-n-Information-Science.pdf"
-},
-{
-	
-	"Year":"Year: 2019-AW(Summer)",
-	"Credits":"Credits: SGBAU",
-	"Link":"https://www.sgbaukrc.ac.in/question-papers/2019-Papers/Summer/BLib/Sem-I/Foundation-Of-Library-n-Information-Science.pdf",
-},
-{
-	
-	"Year":"Year: 2018-AU(Summer)",
-	"Credits":"Credits: SGBAU",
-	"Link":"https://www.sgbaukrc.ac.in/question-papers/2018-papers/summer/BLib/Foundation-Of-Library-n-Information-Science.pdf"
-},
-{
-	
-	"Year":"Year: 2018-AU(Summer)",
-	"Credits":"Credits: SGBAU",
-	"Link":"https://www.sgbaukrc.ac.in/question-papers/2018-papers/summer/BLib/Sem-I/Sem-I-Foundation-Of-Library-n-Information-Science.pdf",
-},
-{
-	
-	"Year":"Year: 2018-AV(Winter)",
-	"Credits":"Credits: SGBAU",
-	"Link":"https://www.sgbaukrc.ac.in/question-papers/2018-papers/winter/BLib/sem-I/Sem-I-Foundation-Library-n-Information-Science.pdf"
-},
-{
-	"Year":"Year: 2016-AQ(Summer)",
-	"Credits":"Credits: SGBAU",
-	"Link":"https://www.sgbaukrc.ac.in/question-papers/2016-papers/Summer/BLib/Foundation-Of-Library-n-Information-Science.pdf"
-}
+[{
+
+		"Year": "Year: 2019-AW(Summer)",
+		"Credits": "Credits: SGBAU",
+		"Link": "https://www.sgbaukrc.ac.in/question-papers/2019-Papers/Summer/BLib/Foundation-Of-Library-n-Information-Science.pdf"
+	},
+	{
+
+		"Year": "Year: 2019-AW(Summer)",
+		"Credits": "Credits: SGBAU",
+		"Link": "https://www.sgbaukrc.ac.in/question-papers/2019-Papers/Summer/BLib/Sem-I/Foundation-Of-Library-n-Information-Science.pdf"
+	},
+	{
+
+		"Year": "Year: 2018-AU(Summer)",
+		"Credits": "Credits: SGBAU",
+		"Link": "https://www.sgbaukrc.ac.in/question-papers/2018-papers/summer/BLib/Foundation-Of-Library-n-Information-Science.pdf"
+	},
+	{
+
+		"Year": "Year: 2018-AU(Summer)",
+		"Credits": "Credits: SGBAU",
+		"Link": "https://www.sgbaukrc.ac.in/question-papers/2018-papers/summer/BLib/Sem-I/Sem-I-Foundation-Of-Library-n-Information-Science.pdf"
+	},
+	{
+
+		"Year": "Year: 2018-AV(Winter)",
+		"Credits": "Credits: SGBAU",
+		"Link": "https://www.sgbaukrc.ac.in/question-papers/2018-papers/winter/BLib/sem-I/Sem-I-Foundation-Library-n-Information-Science.pdf"
+	},
+	{
+		"Year": "Year: 2016-AQ(Summer)",
+		"Credits": "Credits: SGBAU",
+		"Link": "https://www.sgbaukrc.ac.in/question-papers/2016-papers/Summer/BLib/Foundation-Of-Library-n-Information-Science.pdf"
+	}
 ]
