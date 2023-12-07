@@ -1,25 +1,24 @@
-[
-{
-	
-	"Year":"Year: 2019-AW(Summer)",
-	"Credits":"Credits: SGBAU",
-	"Link":"https://www.sgbaukrc.ac.in/question-papers/2019-Papers/Summer/BPA/Sem-II/Music-IV-Paper-I.pdf"
-},
-{
-	
-	"Year":"Year: 2018-AU(Summer)",
-	"Credits":"Credits: SGBAU",
-	"Link":"https://www.sgbaukrc.ac.in/question-papers/Part-I/Part-I-Music-IV-Paper-I.pdf"
-},
-{
-	
-	"Year":"Year: 2018-AU(Summer)",
-	"Credits":"Credits: SGBAU",
-	"Link":"https://www.sgbaukrc.ac.in/question-papers/Part-I/Part-I-Indian-Music-IV-Theory-Old.pdf",
-},
-{
-	"Year":"Year: 2016-AQ(Summer)",
-	"Credits":"Credits: SGBAU",
-	"Link":"https://www.sgbaukrc.ac.in/question-papers/2016-papers/Summer/BPA/Part-I/Indian-Music-IV-Theory.pdf"
-}
+[{
+
+		"Year": "Year: 2019-AW(Summer)",
+		"Credits": "Credits: SGBAU",
+		"Link": "https://www.sgbaukrc.ac.in/question-papers/2019-Papers/Summer/BPA/Sem-II/Music-IV-Paper-I.pdf"
+	},
+	{
+
+		"Year": "Year: 2018-AU(Summer)",
+		"Credits": "Credits: SGBAU",
+		"Link": "https://www.sgbaukrc.ac.in/question-papers/Part-I/Part-I-Music-IV-Paper-I.pdf"
+	},
+	{
+
+		"Year": "Year: 2018-AU(Summer)",
+		"Credits": "Credits: SGBAU",
+		"Link": "https://www.sgbaukrc.ac.in/question-papers/Part-I/Part-I-Indian-Music-IV-Theory-Old.pdf"
+	},
+	{
+		"Year": "Year: 2016-AQ(Summer)",
+		"Credits": "Credits: SGBAU",
+		"Link": "https://www.sgbaukrc.ac.in/question-papers/2016-papers/Summer/BPA/Part-I/Indian-Music-IV-Theory.pdf"
+	}
 ]
